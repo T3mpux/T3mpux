@@ -1,8 +1,8 @@
 # Yusuf Safiyullah Kılınç
 
-Frontend developer in Türkiye, moving toward full stack. I build with React,
-Next.js, TypeScript and Tailwind — and I care about what happens after the
-request: sessions, database policies, error paths.
+Full stack developer in Türkiye. I build with React, Next.js, TypeScript,
+Supabase and Tailwind — and I care about what happens after the request:
+sessions, database policies, error paths.
 
 **Currently:** finishing small things instead of starting large ones.
 
@@ -11,7 +11,7 @@ request: sessions, database policies, error paths.
 - **[mini-forum](https://github.com/T3mpux/mini-forum)** — posts, comments and
   accounts. Supabase auth with cookie sessions, and authorisation enforced in
   Postgres through row level security rather than in the UI. Next.js 16,
-  TypeScript, Tailwind.
+  TypeScript, Tailwind. Live: https://mini-forum-mu.vercel.app
 - **[portfolio](https://github.com/T3mpux/portfolio)** — AI-assisted landing
   pages and chatbot interfaces; responsive layouts, form flows.
 
